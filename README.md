@@ -1,4 +1,4 @@
-# WireMin-Chinese_Simplified(Android)
+# WireMin中文汉化(Android)
 WireMin是一个端对端的聊天app，无需代理即可使用，可惜的是没有内置中文，于是WireMin简中汉化应运而生
 # 如何使用
 方法一(推荐)：
